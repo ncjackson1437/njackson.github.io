@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Assignment 5</title>
+  </head>
+  <body>
+    <p>Within activity 6 I was asked to research plans available from different wired (cable, DSL) and wireless (cellular, wireless, satellite) internet providers. I was instructed to Compare, mobility, availability, bandwidth, reliability, delay, concurrent connections, security, and cost. From what I learned in this activity after comparing all of the cost of the internet and cable providers that google fiber offers all of these services for a great low price. After visiting google one’s website I was able to find that they provide reliable and reasonably priced internet services. I found that google fiber doesn’t have any data cap or slowdowns and contains all of the bandwidth needed. I envision utilizing this information for when I have to change internet providers again. 
+For activity three I was asked to verify my internet connectivity. I was instructed to verify there was a physical connection, verify Ip address settings and review ping/host. Verify local and remote connectivity using ping. I learned form this activity that I was connected to my internet by performing the three basic steps like verify a physical connection. I observed that my connection is wireless, so I just went to settings and saw that I was connected. I also learned how to verify my IP address settings by utilizing the command ipconfig in command line. I also was able to ping my local IP address in order to verify local and remote connectivity using ping. I was able to ping an internet host as well utilizing the IP of 8.8.8.8. I envision utilizing this information frequently when setting up a network or connecting to the internet within my professional and home career. 
+</p>
+  </body>
+</html>
