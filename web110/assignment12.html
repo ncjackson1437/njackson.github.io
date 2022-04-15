@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="style.css">
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Assignment 13 Summary</title>
+  </head>
+  <body>
+  <h1>Tiara's Table of contents</h1>
+  <h2>Single-table SELECT statements</h2>
+  <p>Select all customers (SELECT *)</p>
+  <ul style="list-style-type:none">
+<li>SELECT * FROM Customers;</li>
+</ul>
+<p>Select only customer id and customer name fields (SELECT fields)</p>
+<ul style="list-style-type:none">
+<li>SELECT CustomerID, CustomerName FROM Customers;</li>
+</ul>
+<p>SELECT Customer Name Address, city, and postal code for all customers from the united kingdom (WHERE field = 'value')</p>
+<ul style="list-style-type:none"></ul>
+  <li>SELECT CustomerName, Address, City, PostalCode FROM Customers</li>
+  <li>WHERE Country='UK';</li>
+  </ul>
+  <p>Select contact name and customer name for all customers, sorted alphabetically by contact name (ORDER BY field)</p>
+  <ul style="list-style-type:none">
+  <li>SELECT ContactName, CustomerName FROM Customers;</li>
+  <li>ORDER BY ContactName;</li>
+  </ul>
+  <p> count the total number of numbers (COUNT(*))</p>
+  <li>SELECT COUNT ProductID * FROM products</li>
+  <ul style="list-style-type:none">
+    <li>INSERT INTO Customers (CustomerName, City, Country)
+        VALUES ('Cardinal', 'Stavanger', 'Norway');</li>
+</ul>  
+<li>UPDATE Customers
+    SET ContactName = 'Alfred Schmidt', City= 'Frankfurt'
+    WHERE CustomerID = 1;</li>
+    <p>Within this activity, I was able to learn about various SQL statements. Statements such as the COUNT statement and the insert to statements. I feel as if the most important statement to learn about is the SELECT statement. I utilized this statement in my assignment because it has assisted me with pinpointing and specifying data within my database assignment. Other SQL statements such as UPDATE can assist with changing data within the database that was created during this assignment. </p>
+  </body>
+</html>
